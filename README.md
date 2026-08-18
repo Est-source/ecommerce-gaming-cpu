@@ -1,7 +1,7 @@
-#E-commerce Gaming CPU
+# E-commerce Gaming CPU
 โปรเจกต์เว็บไซต์ร้านค้าจำหน่ายซีพียูสำหรับเล่นเกม ที่สร้างขึ้นเพื่อฝึกพื้นฐานการพัฒนาเว็บไซต์ E-commerce
 
-##Learning Goals
+## Learning Goals
 -ฝึกเขียน HTML
 
 -ฝึกเขียน CSS
@@ -14,13 +14,13 @@
 
 -ฝึกการจัดโครงสร้างโปรเจกต์
 
-##Technologies
+## Technologies
 HTML5 • CSS3 • JavaScript
 
-##Status
+## Status
 🚧 กำลังพัฒนา
 
 โปรเจกต์นี้จะมีการปรับปรุงและเพิ่มฟีเจอร์เพิ่มเติมระหว่างการเรียนรู้ Front-End Development
 
-##Author
+## Author
 Est
