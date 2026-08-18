@@ -15,7 +15,7 @@
 -ฝึกการจัดโครงสร้างโปรเจกต์
 
 ## Technologies
-HTML5 • CSS3 • JavaScript
+HTML • CSS
 
 ## Status
 🚧 กำลังพัฒนา
